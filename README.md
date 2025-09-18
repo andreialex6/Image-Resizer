@@ -1,0 +1,1 @@
+A simple Python tool with a Tkinter interface that allows users to resize images, choose custom dimensions, select output format (PNG, JPG, etc.), and save the processed image with a centered layout on a white background.
